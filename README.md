@@ -1,8 +1,10 @@
 # Courssera_GCD_Project
 Getting the data
+
 First of all, I downloaded the zipped folder, unzipped it, and downloaded files necessry for the analysus.
 
 Looking at data
+
 Next, I previewd data sets to understand their structire and my next steps: how many columns and rows they have etc.
 
 Manipulating data
